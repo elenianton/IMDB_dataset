@@ -2,5 +2,5 @@ We tried to apply apply different neural network architectures for tackling the 
 
 Steps:
   1. Apply appropriate preprocessing steps, and splitting the dataset in training, validation, and testing sets.
-  2. Develop RNN and CNN models using Glove embeddings or not
-  3. Develop a BERT pretrained model from Hugging Face https://huggingface.co and fine-tune it on the IMDB Dataset
+  2. Develop RNN and CNN models using Glove embeddings or not.
+  3. Develop a BERT pretrained model from Hugging Face https://huggingface.co and fine-tune it on the IMDB Dataset.
