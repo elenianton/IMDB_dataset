@@ -1,5 +1,4 @@
-We tried to apply apply different neural network architectures for tackling the problem of
-sentiment analysis [classify whether a movie review is positive or negative] of the IMDB Dataset of 50K Movie Reviews[http://ai.stanford.edu/~amaas/data/sentiment/]
+We tried to apply apply different neural network architectures for tackling the problem of sentiment analysis [classify whether a movie review is positive or negative] of the IMDB Dataset of 50K Movie Reviews[http://ai.stanford.edu/~amaas/data/sentiment/]
 
 Steps:
   1. Apply appropriate preprocessing steps, and splitting the dataset in training, validation, and testing sets.
